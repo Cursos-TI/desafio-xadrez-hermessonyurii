@@ -3,7 +3,7 @@
 //  DISCIPLINA: Introdução à Programação de Computadores, Programando em C.
 //  Desafio: Movimentos Complexos no Xadrez - Nível Mestre
 //  Objetivo: Implementar movimentos avançados usando recursividade (Torre, Bispo, Rainha) 
-// e loops complexos (Cavalo), demonstrando domínio de estruturas de controle em C.
+//e loops complexos (Cavalo), demonstrando domínio de estruturas de controle em C.
 //  Autor: Hermesson Yuri
 //  Professor: Nathan - Sergio Cardoso
 //  Data: 26/06/2025
