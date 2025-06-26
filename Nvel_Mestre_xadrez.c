@@ -1,5 +1,19 @@
 #include <stdio.h>
 
+//  DISCIPLINA: Introdução à Programação de Computadores, Programando em C.
+//  Desafio: Movimentos Complexos no Xadrez - Nível Mestre
+//  Objetivo: Implementar movimentos avançados usando recursividade (Torre, Bispo, Rainha) 
+// e loops complexos (Cavalo), demonstrando domínio de estruturas de controle em C.
+//  Autor: Hermesson Yuri
+//  Professor: Nathan - Sergio Cardoso
+//  Data: 26/06/2025
+//  GitHub: https://github.com/hermessonyurii
+//  Detalhes:
+//  - Recursividade: Torre (direita), Bispo (diagonal), Rainha (esquerda)
+//  - Loops Aninhados: Bispo com controle vertical/horizontal
+//  - Loops Complexos: Cavalo em "L" (2 cima + 1 direita)
+//  - Controle preciso com continue/break
+
 // Constantes para as direções básicas do tabuleiro
 #define CIMA "Cima"
 #define BAIXO "Baixo"
